@@ -1,6 +1,4 @@
 # Stop_watch_using_ATmega16
-![image](https://github.com/afnan41/Stop_watch_using_ATmega16.wiki.git)
-
 >### Stop Watch Timer System
 1 . Use ATmega16 Microcontroller with frequency 1Mhz.<br>
 2 . Using Timer1 in ATmega16 with CTC mode to count the Stop Watch time.<br>
